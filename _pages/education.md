@@ -11,8 +11,6 @@ redirect_from:
 
 ## Background
 
-## Background
-
 * **[The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html){: .no-underline-black-link }**
   <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
   *[B.Sc. in Computer Science](https://www.cse.cuhk.edu.hk/academics/cscin/){: .no-underline-black-link }*
@@ -22,7 +20,6 @@ redirect_from:
   * **Spring Semester Exchange** to [IC School](https://www.epfl.ch/schools/ic/){: .no-underline-black-link }, [École Polytechnique Fédérale de Lausanne **(EPFL)**](https://www.epfl.ch/en/){: .no-underline-black-link }, 2023-24.
   * **Spring Semester Exchange** to [Yuanpei College](https://yuanpei.pku.edu.cn/en/){: .no-underline-black-link }, [Peking University **(PKU)**](https://english.pku.edu.cn){: .no-underline-black-link }, 2022-23.
 * Ranked **top 0.4%** among 110,000 science students in the 2021 [National College Entrance Exam](https://en.wikipedia.org/wiki/Gaokao){: .no-underline-black-link }.
-
 
 ## Skills
 
