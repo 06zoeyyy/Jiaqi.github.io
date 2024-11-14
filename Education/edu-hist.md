@@ -1,11 +1,11 @@
----
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
----
+## Background
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+- **The Chinese University of Hong Kong (CUHK)** Sep. 2021 - Jul. 2025 (expected)  
+  *B.Sc. in Computer Science*  
+  Hong Kong SAR
+  - Cumulative GPA: **3.757**/4.000 (Top 10%).
+  - Member of **ELITE Stream** of Faculty of Engineering; Member of **S.H. Ho College**.
+  - **Spring Semester Exchange** to IC School, École Polytechnique Fédérale de Lausanne (**EPFL**), 2023-24.
+  - **Spring Semester Exchange** to Yuanpei College, Peking University (**PKU**), 2022-23.
+
+- Ranked **top 0.4%** among 110,000 science students in the 2021 National College Entrance Exam.
