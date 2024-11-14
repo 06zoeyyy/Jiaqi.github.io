@@ -11,7 +11,7 @@ redirect_from:
 
 ## Background
 
-- **The Chinese University of Hong Kong (CUHK)** Sep. 2021 - Jul. 2025 (expected)  
+- **The Chinese University of Hong Kong (CUHK)<span style="float: right;">** Sep. 2021 - Jul. 2025 (expected)  
   *B.Sc. in Computer Science*  
   Hong Kong SAR
   - Cumulative GPA: **3.757**/4.000 (Top 10%).
