@@ -18,6 +18,15 @@ redirect_from:
   * Cumulative GPA: **3.757**/4.000 (Top 10%).
   * Major GPA: **3.8**/4.0
 
+## Honors and Scholarships
+* Award for Outstanding Academic Performance(Top 1.5% in CS major)<span style="float: right;">*2023-2024*</span>
+* Dean’s List (**Top 10%**)<span style="float: right;">*Fac. of Engineering, 2022*</span>
+* Head’s List <span style="float: right;">*New Asia College, 2022*</span>  
+* Matriculation Scholarships for Academic Excellence (5,000HKD)<span style="float: right;">*[S.H. Ho College](https://www.shho.cuhk.edu.hk){: .no-underline-black-link }, 2021*</span>
+* 2<sup>nd</sup> Prize in National Mathematics Competition for Senior High<span style="float: right;">*[Chinese Mathematical Society](https://www.cms.org.cn/en/Home/about/about.html){: .no-underline-black-link }, 2020*</span>  
+* 2<sup>nd</sup> Prize in National Physics Competition for Senior High<span style="float: right;">*[Chinese Physical Society](http://cps-old.t2.dyuntech.com/English.htm){: .no-underline-black-link }, 2019*</span>
+
+
 ## Skills
 
 * **Language**: English (Proficient), Mandarin (Native) and Cantonese (Intermediate).
