@@ -13,4 +13,5 @@ My research experience covers various aspects of deep learning and software deve
 
 ## Academic Experience
 **Automated Essay Evaluation Systems**
+
 Under the supervision of Prof. King, I am developing an automated essay evaluation system with the [KEEP](https://keep.edu.hk/). This system aims to assist teachers in grading essays and improve users' English writing skills. It will be showcased at the EXPO in early December to gather feedback for further optimization before being released to the public.
