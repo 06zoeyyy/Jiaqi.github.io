@@ -1,11 +1,15 @@
-## Background
+---
+layout: archive
+title: "Education"
+permalink: /education/
+author_profile: true
+redirect_from:
 
-- **The Chinese University of Hong Kong (CUHK)** Sep. 2021 - Jul. 2025 (expected)  
-  *B.Sc. in Computer Science*  
-  Hong Kong SAR
-  - Cumulative GPA: **3.757**/4.000 (Top 10%).
-  - Member of **ELITE Stream** of Faculty of Engineering; Member of **S.H. Ho College**.
-  - **Spring Semester Exchange** to IC School, École Polytechnique Fédérale de Lausanne (**EPFL**), 2023-24.
-  - **Spring Semester Exchange** to Yuanpei College, Peking University (**PKU**), 2022-23.
+---
 
-- Ranked **top 0.4%** among 110,000 science students in the 2021 National College Entrance Exam.
+{% include base_path %} 
+
+* Automated Essay Evaluation System <span style="float: right;">Sep. 2024 - present</span>  
+  *Supervisor: [Prof. Irwin. King](https://www.cse.cuhk.edu.hk/irwin.king/) ([KEEP](https://keep.edu.hk/){: .no-underline-black-link }
+  *Implemented the grammar-checking function, and proposed an approximate matching to calculate offsets to support real-time text replacement options for error correction.
+  *Designed quantitative criteria to compare the performance in grammar corrections among GEC models and ChatGPT, and in attributes grading and explanations among generative models. 
