@@ -8,12 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %} 
-<style>
-  p, li {
-    line-height: 1.2; 
-    margin: 0;
-  }
-</style>
 **Automated Essay Evaluation Systems** <span style="float: right;">Apr. 2024 - present</span>
 *Supervisor: [Prof. Irwin King](https://www.cse.cuhk.edu.hk/people/faculty/irwin-king/), ([KEEP](https://keep.edu.hk/))*
 <span style="float: right;">Hong Kong SAR</span>
