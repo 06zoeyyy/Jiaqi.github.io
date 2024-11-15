@@ -13,4 +13,5 @@ My research experience covers various aspects of deep learning and software deve
 
 ## Academic Experience
 **Automated Essay Evaluation Systems**: Under the supervision of Prof. King, I am developing an automated essay evaluation system with the [KEEP](https://keep.edu.hk/). This system aims to assist teachers in grading essays and improve users' English writing skills. It will be showcased at the EXPO in early December to gather feedback for further optimization before being released to the public.
+
 **Adversarial Attacks on Facial Recognition API**: Thanks to the guidance of Prof. Ho, I began exploring deep learning with a focus on adversarial attacks on facial recognition APIs. I applied various methods, including black-box and white-box attacks, to facial recognition systems and analyzed the outcomes to identify their weaknesses and biases.
