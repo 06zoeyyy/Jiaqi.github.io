@@ -34,4 +34,4 @@ redirect_from:
 
 * **Language**: English (IELTS 7.5), Mandarin (Native) and Cantonese (Fluent).
 * **Programming**:  C/C++, Java, JavaScript{React, Vue}, Python{Flask, PyTorch, TensorFlow} and SQL.
-* **Tools**: $\mathrm{\LaTeX}$, Conda, Git, Linux, PowerBI.
+* **Tools**: LaTeX, Conda, Git, Linux, PowerBI.
