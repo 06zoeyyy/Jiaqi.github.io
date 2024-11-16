@@ -9,11 +9,11 @@ main:
   - title: "About me"
     url: /../
     
-  - title: "Education"
-    url: /education/
+  # - title: "Education"
+  #   url: /education/
     
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
         
   - title: "Misc."
     url: /misc/
