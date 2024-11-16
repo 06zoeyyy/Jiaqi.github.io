@@ -9,17 +9,6 @@ redirect_from:
 
 {% include base_path %} 
 
----
-layout: archive
-title: "Education"
-permalink: /education/
-author_profile: true
-redirect_from:
-
----
-
-{% include base_path %} 
-
 ## Background
 * **The Chinese University of Hong Kong (CUHK)**
   <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
