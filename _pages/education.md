@@ -14,7 +14,7 @@ redirect_from:
   <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
   *B.Sc. in Computer Science*
   <span style="float: right;">Hong Kong SAR</span>  
-  * Cumulative GPA: 3.737/4.000 (Top 10%).
+  * Cumulative GPA: 3.737/4.000 (Top 5%).
   * Major GPA: 3.8/4.0
 
 ## Honors and Scholarships
