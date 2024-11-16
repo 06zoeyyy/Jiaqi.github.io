@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Misc"
+permalink: /misc/
+author_profile: true
+redirect_from:
+
+---
+
+{% include base_path %} 
+
 ## Passion
 The journey from Northwest China to Hong Kong allowed me to witness firsthand the impact of educational resource disparities on individuals.
 
