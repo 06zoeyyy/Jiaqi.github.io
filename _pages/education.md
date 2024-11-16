@@ -17,7 +17,7 @@ redirect_from:
   * Cumulative GPA: 3.737/4.000 (Top 5%).
   * Major GPA: 3.8/4.0
 
-## Honors and Scholarships
+## Honors and Awards
 * Award for Outstanding Academic Performance (Top 1.5% in CS major)<span style="float: right;">2023-2024</span>
 * Dean’s List (Top 10%)<span style="float: right;">Faculty of Engineering, 2022 & 2023 & 2024</span>
 * Head’s List <span style="float: right;">New Asia College, 2022 & 2023</span>  
