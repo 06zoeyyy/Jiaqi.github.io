@@ -1,13 +1,4 @@
----
-layout: archive
-title: "Education"
-permalink: /education/
-author_profile: true
-redirect_from:
 
----
-
-{% include base_path %} 
 
 ## Background
 * **The Chinese University of Hong Kong (CUHK)**
