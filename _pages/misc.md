@@ -15,11 +15,8 @@ In my experience organizing and participating in volunteer teaching activities, 
 
 This led me to explore AI and software development, with the aim of integrating AI into educational software to lower learning barriers.
 ## Beyond Academic
-I enjoy discovering myself and the world while traveling.
-
-I am always looking forward to talk with people from different backgrounds and make friends.
-
-I love the sun and the sea, as well as the snow.
-
-When doing sports-swiming, basketball and so on, I focus more on myself.
+* I enjoy discovering myself and the world while traveling.
+* I am always looking forward to talk with people from different backgrounds and make friends.
+* I love the sun and the sea, as well as the snow.
+* When doing sports-swiming, basketball and so on, I focus more on myself.
 
