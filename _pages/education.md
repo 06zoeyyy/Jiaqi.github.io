@@ -18,7 +18,7 @@ redirect_from:
   * Major GPA: 3.8/4.0
 
 ## Honors and Awards
-* Award for Outstanding Academic Performance (Top 1.5% in CS major)<span style="float: right;">2023-2024</span>
+* Award for Outstanding Academic Performance (Top 1% in CS undergraduate)<span style="float: right;">2023-2024</span>
 * Dean’s List (Top 10%)<span style="float: right;">Faculty of Engineering, 2022 & 2023 & 2024</span>
 * Head’s List <span style="float: right;">New Asia College, 2022 & 2023</span>  
 * Honorable Mention of Mathematical Contest in Modeling (MCM)<span style="float: right;">2022</span>
