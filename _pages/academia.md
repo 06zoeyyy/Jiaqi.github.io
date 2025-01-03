@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Academic Experience"
 permalink: /academia/
 author_profile: true
 redirect_from:
