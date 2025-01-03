@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Academia"
 permalink: /academia/
 author_profile: true
 redirect_from:
