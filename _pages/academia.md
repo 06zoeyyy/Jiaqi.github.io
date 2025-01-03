@@ -17,4 +17,5 @@ redirect_from:
 
 ## Project
 **CubeCU-Tree Hole**: CubeCU is a dynamic social platform using the MERN stack. Users can post, comment, and chat with others in real-time. For better user experience, CubeCU implemented tag choice, visibility setting and recommendation system. Besides, admin user has an additional panel to manage user permissions, content moderation, and system monitoring.
+
 **Computer Sales Database System**: A computer sales database system developed using MySQL and Java, starting with ER diagram design and optimized for performance through Boyce-Codd Normal Form (BCNF) and the Grace Hash Join technique. The system features interactive functionalities, including inventory statistics, salesperson management, and transaction recording.
