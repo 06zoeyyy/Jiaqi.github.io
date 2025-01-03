@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %} 
 
 ## Background
-* **The Chinese University of Hong Kong (CUHK)**
+**The Chinese University of Hong Kong (CUHK)**
   <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
   *B.Sc. in Computer Science*
   <span style="float: right;">Hong Kong SAR</span>  
