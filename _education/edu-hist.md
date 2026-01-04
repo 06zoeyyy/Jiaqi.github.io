@@ -10,12 +10,14 @@ redirect_from:
 {% include base_path %} 
 
 ## Background
-* **The Chinese University of Hong Kong (CUHK)**
-  <span style="float: right;">Sep. 2021 - Jul. 2025 (expected)</span>  
+* **University of Toronto**
+  <span style="float: right;">Sep. 2025 - Jan. 2027(Expected) </span>  
+  *M.Sc. in Applied Computing (MScAc)*
+  <span style="float: right;">Canada</span>  
+* **The Chinese University of Hong Kong**
+  <span style="float: right;">Sep. 2021 - Jul. 2025 </span>  
   *B.Sc. in Computer Science*
   <span style="float: right;">Hong Kong SAR</span>  
-  * Cumulative GPA: 3.737/4.000 (Top 10%).
-  * Major GPA: 3.8/4.0
 
 ## Honors and Scholarships
 * Award for Outstanding Academic Performance (Top 1.5% in CS major)<span style="float: right;">2023-2024</span>
