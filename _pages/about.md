@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-Hi:) I'm Jiaqi GAO (Joey&高佳琪), a final year undergraduate majoring in computer science from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). Currently, I am fortunate to be advised by [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/) for my Final Year Project. Prior to this, I was also honored to be advised by [Prof. Tsung-Yi Ho](https://tsungyiho.github.io/).
+Hi! I’m Jiaqi (Joey) Gao (高佳琪). I am a Master of Science in Applied Computing ([MScAc](https://mscac.utoronto.ca/) student at the University of Toronto, starting in September 2025.
 
-My research experience covers various aspects of machine learning and software development. Under the supervision of Prof. Tsung-Yi Ho, I focused on adversarial attack in computer vision. For my most recent research with Prof. Irwin King, I expanded my work to include educational software development and large language models. I'm still going to explore more aspects to enrich myself.
+Previously, I completed my Bachelor of Science in Computer Science at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html. My research and professional work focus on the intersection of Machine Learning, LLM Application Engineering, and Data Engineering. I am passionate about building robust, AI-enabled systems to solve complex real-world challenges.
 
